@@ -22,7 +22,7 @@ Kerassentials contains a blend of essential oils, plant extracts, and moisturizi
 
 ### Tea Tree Oil
 
-![Tea Tree Oil](https://raw.githubusercontent.com/reviews7/Kerassentials/refs/heads/main/tea-tree-oil.jpg)
+![Tea Tree Oil](https://raw.githubusercontent.com/reviews7/Kerassentials/refs/heads/main/tea-tree-oil-0.jpg)
 
 Tea tree oil is one of the most recognized natural oils used in nail and skin care products. It is widely valued for its cleansing properties and is often included in formulas designed to maintain a clean nail surface. Tea tree oil may also help refresh the skin around the nails while supporting a healthier nail environment.
 
@@ -30,19 +30,19 @@ Tea tree oil is one of the most recognized natural oils used in nail and skin ca
 
 ### Lavender Oil
 
-![Lavender Oil](https://raw.githubusercontent.com/reviews7/Kerassentials/refs/heads/main/lavender-oil.jpg)
+![Lavender Oil](https://raw.githubusercontent.com/reviews7/Kerassentials/refs/heads/main/lavender-oil-0.jpg)
 
 Lavender oil is known for its soothing and calming properties. In nail care products, it is commonly used to help moisturize dry skin and provide a refreshing sensation. Its natural aroma also contributes to a more pleasant application experience.
 
 ### Almond Oil
 
-![Almond Oil](https://raw.githubusercontent.com/reviews7/Kerassentials/refs/heads/main/almond-oil.jpg)
+![Almond Oil](https://raw.githubusercontent.com/reviews7/Kerassentials/refs/heads/main/almond-oil-0.jpg)
 
 Almond oil is rich in vitamins and fatty acids that help hydrate dry and damaged skin. It is often used to soften rough areas around the nails while supporting smoother-looking cuticles and healthier nail texture.
 
 ### Lemongrass Oil
 
-![Lemongrass Oil](https://raw.githubusercontent.com/reviews7/Kerassentials/refs/heads/main/lemongrass-oil.jpg)
+![Lemongrass Oil](https://raw.githubusercontent.com/reviews7/Kerassentials/refs/heads/main/lemongrass-oil-0.jpg)
 
 Lemongrass oil is included in many cosmetic and skincare products because of its refreshing properties. It may help maintain nail cleanliness while adding a fresh scent to the formula.
 
@@ -54,19 +54,19 @@ Aloe vera is widely recognized for its skin-supporting and hydrating qualities. 
 
 ### Manuka Oil
 
-![Manuka Oil](https://raw.githubusercontent.com/reviews7/Kerassentials/refs/heads/main/manuka-oil.jpg)
+![Manuka Oil](https://raw.githubusercontent.com/reviews7/Kerassentials/refs/heads/main/manuka-oil-0.jpg)
 
 Manuka oil is another botanical ingredient frequently used in personal care products. It is appreciated for its cleansing properties and is often included in formulas intended to support healthier skin and nails.
 
 ### Walnut Oil
 
-![Walnut Oil](https://raw.githubusercontent.com/reviews7/Kerassentials/refs/heads/main/walnut-oil.jpg)
+![Walnut Oil](https://raw.githubusercontent.com/reviews7/Kerassentials/refs/heads/main/walnut-oil-0.jpg)
 
 Walnut oil is rich in essential fatty acids and nutrients that help nourish dry and brittle nails. It supports smoother nail texture and improves the overall appearance of damaged nails by deeply moisturizing the nail bed and surrounding skin.
 
 ### Jojoba Oil
 
-![Jojoba Oil](https://raw.githubusercontent.com/reviews7/Kerassentials/refs/heads/main/jojoba-oil.jpg)
+![Jojoba Oil](https://raw.githubusercontent.com/reviews7/Kerassentials/refs/heads/main/jojoba-oil-0.jpg)
 
 Jojoba oil closely resembles the natural oils produced by the skin, making it highly effective for hydration. It helps soften cuticles, reduce dryness, and supports healthier-looking nails by maintaining moisture balance without feeling greasy.
 
