@@ -82,7 +82,7 @@ Unlike products that focus only on temporary cosmetic improvement, Kerassentials
 
 ## Why Natural Oils Are Popular for Nail Care?
 
-Natural oils have become increasingly popular because many people prefer gentle formulations over strong chemical treatments. Oils derived from plants are often used to moisturize the skin, soften cuticles, and improve the overall appearance of nails without creating excessive dryness.
+[Natural oils](https://github.com/reviews7/Kerassentials/) have become increasingly popular because many people prefer gentle formulations over strong chemical treatments. Oils derived from plants are often used to moisturize the skin, soften cuticles, and improve the overall appearance of nails without creating excessive dryness.
 
 Many users also appreciate that essential oils can be applied easily as part of a daily self-care routine. Consistency is important, as natural products typically require regular use to show visible improvements.
 
